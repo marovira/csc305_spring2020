@@ -2,7 +2,7 @@
 
 In this site you will find the following class materials (per folder):
 
-* `lectures:` all of the lecture notes. Please not that not all lecture notes
+* `lectures:` all of the lecture notes. Please note that not all lecture notes
   may be published here. If they are, they will usually be published after
   class.
 * `resources:` lists of books, websites, etc. that you may find useful or
