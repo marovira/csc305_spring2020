@@ -128,7 +128,7 @@ distributions. The general idea is the following: given an integer, convert it
 into binary. Now add the decimal point and reflect the digits across the decimal
 point. This function is called the *radical inverse function*. The generated
 samples all have regular spacing in their 1D projections since all samples are
-on an $n \tims n$ grid in the unit square. The other advantage is that the
+on an $n \times n$ grid in the unit square. The other advantage is that the
 sample points are well-distributed in 2D, with a minimum distance between
 samples, which is something that none of the other sampling methods have. The
 downside of Hammersley is that it can only produce *one* sequence, which leads
