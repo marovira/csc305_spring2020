@@ -93,7 +93,7 @@ $(x_v, y_v)$ coordinates of a sample point $p$ on the pixel in row $r$ and
 column $c$ are 
 
 $$
-x_v = c - h / 2 + p_x
+x_v = c - w / 2 + p_x
 $$
 $$
 y_v = r - h / 2 + p_y
