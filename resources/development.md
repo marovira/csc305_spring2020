@@ -25,3 +25,26 @@ project by just copying the code.
 
 If you have any questions about setting up your computers, please come see me
 after class, email me, or schedule an appointment.
+
+## OpenGL Development
+
+The course uses OpenGL core version 4.5 or 4.6. The support for OpenGL is
+determined by your graphics card and your driver. If your card is not recent
+enough, or if you do not have the latest driver version, you will be unable to
+run the course code in your machine. This directory contains a simple tester
+program to check if your computer supports the required version of OpenGL. If
+the program runs without any errors, then your computer supports the required
+OpenGL versions. If it does not, here are a few things you can try:
+
+* Ensure you have the *latest* version of the driver for your graphics card
+  installed.
+* Check the website of the company who made your graphics card and check the
+  highest OpenGL version that your card supports. If the maker says your card
+  supports OpenGL 4.5+, then you are good to go.
+
+If your card is unable to run OpenGL 4.5+, then you will have to work on the lab
+computers. These have already been setup and support the version of OpenGL
+required for this course.
+
+If you have any questions about setting up your computers, please come see me
+after class, email me, or schedule an appointment.
