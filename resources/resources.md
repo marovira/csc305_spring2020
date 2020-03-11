@@ -78,3 +78,6 @@
   I've found myself using this quite frequently to remind myself of what the
   modern functions from OpenGL are and how to use them. It does assume knowledge
   of OpenGL, but once you understand it, it is a very good quick guide.
+
+* [Camera and Projectios](https://cs.wellesley.edu/~cs307/readings/06-camera.html) A very nice website that gives visualizations on the
+  parameters of the camera (and the view matrix) and the projection matrix.
