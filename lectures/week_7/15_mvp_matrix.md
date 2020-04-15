@@ -247,8 +247,8 @@ is then:
 $$
 P_p = 
 \begin{bmatrix}
-    \frac{2n'}{r - l} & 0 & -\frac{r + l}{r - l} & 0 \\
-    0 & \frac{2n;}{t - b} & -\frac{t + b}{t - b} & 0 \\
+    \frac{2n'}{r - l} & 0 & \frac{r + l}{r - l} & 0 \\
+    0 & \frac{2n}{t - b} & \frac{t + b}{t - b} & 0 \\
     0 & 0 & -\frac{f' + n'}{f' - n'} & -\frac{2f'n'}{f' - n'} \\
     0 & 0 & -1 & 0
 \end{bmatrix}
