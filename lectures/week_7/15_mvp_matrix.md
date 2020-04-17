@@ -284,7 +284,7 @@ space $p_c$ after being multiplied by the projection matrix and divided by $w$.
 From [@eq:eq1], we can obtain the following value for $z_c$:
 
 $$
-z_c = \frac{\frac{(-f + n)z_e - 2fn)}{f - n}}{-z_e}
+z_c = \frac{\frac{-(f + n)z_e - 2fn}{f - n}}{-z_e}
 $$
 
 Note that the division by $-z_e$ comes as a result of the value for $w = -z_e$.
